@@ -1,0 +1,14 @@
+{
+  "name": "ometa-loader",
+  "version": "0.0.1",
+  "author": "Pagan Gazzard <page@resin.io> (https://github.com/Page-)",
+  "description": "OMetaJS loader module for webpack",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:resin-io/ometa-loader.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ometa-js": "^1.3.3"
+  }
+}
